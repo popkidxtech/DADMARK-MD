@@ -49,7 +49,7 @@
     "STATUS_READ_MSG": {
       "description": "set your status reply message",
       "required": false,
-      "value": "*Status Seen By POPKID-MD 👻🤍*"
+      "value": "*Status Seen By DADMARK-MD 👻🤍*"
     },
     "OWNER_NAME": {
       "description": "set your status reply message",
